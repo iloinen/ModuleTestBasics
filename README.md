@@ -14,7 +14,7 @@ A munka menete:<br>
 ---
 
 A leadás módja:<br>
-Email írása a <b>progmaticacademy@gmail.com</b> email-címre, amely tartalmazza:
+Email írása a <b>***</b> email-címre, amely tartalmazza:
 - a teljes nevedet
 - a GitHub-os repository linkjét, amelyben a megoldásaid vannak
 
